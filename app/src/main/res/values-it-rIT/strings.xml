@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FirebaseDemo</string>
+    <string name="welcome">Benvenuto</string>
+    <string name="guest">Ospite</string>
+    <string name="missing_field">Riempi tutti i campi</string>
+    <string name="sign_up">Registrati</string>
+    <string name="password_check">Ripeti password</string>
+    <string name="registration">Registrazione</string>
+    <string name="sign_in">Accedi</string>
+    <string name="sign_in_to_continue">Accedi per continuare</string>
+    <string name="or_login_with">O accedi tramite :</string>
+    <string name="forgot">Password dimenticata?</string>
+    <string name="mismatch">Password diverse</string>
+    <string name="registration_success">Registrazione eseguita</string>
+    <string name="registration_failed">Registrazione fallita</string>
+    <string name="send_mail">Invia email</string>
+    <string name="login_success">Accesso eseguito</string>
+    <string name="login_failed">Accesso fallito</string>
+    <string name="short_password">La Password deve avere almeno 6 caratteri</string>
+    <string name="guest_login">Ospite</string>
+    <string name="guest_login_success">Accesso ospite eseguito</string>
+    <string name="guest_login_fail">Accesso ospite fallito</string>
+    <string name="google_login_success">Accesso con Google eseguito</string>
+    <string name="google_login_fail">Accesso con Google fallito</string>
+    <string name="logout">Esci</string>
+    <string name="ui_sign_in_failed">Accesso UI fallito</string>
+    <string name="ui_sign_in_success">Accesso UI eseguito</string>
+    <string name="hello">Ciao</string>
+    <string name="send">Invia</string>
+    <string name="get_data">Scarica</string>
+    <string name="sign_out">Esci</string>
+    <string name="delete_account">Elimina Account</string>
+    <string name="sign_out_toast">L\'utente è uscito</string>
+    <string name="guest_welcome">Utente ospite</string>
+    <string name="get">Scarica</string>
+    <string name="guest_warning">L\'ospite non può scrivere sul DB</string>
+    <string name="Pwd_recovery">Reimposta password</string>
+</resources>

@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">FirebaseDemo</string>
+    <string name="sign_up">Sign up</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="missing_field">Please fill all fields</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="password_check">Repeat password</string>
+    <string name="welcome">Welcome</string>
+    <string name="registration">Registration</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_in_to_continue">Sign in to Continue</string>
+    <string name="or_login_with">Or login with :</string>
+    <string name="forgot">Forgot password?</string>
+    <string name="mismatch">Password mismatch</string>
+    <string name="create_user_with_mail_success" translatable="false">createUserWithEmail:success</string>
+    <string name="registration_success">Registration successful</string>
+    <string name="registration_failed">Registration failed</string>
+    <string name="send_mail">Send mail</string>
+    <string name="login_success">Sign in successful</string>
+    <string name="login_failed">Sign in failed</string>
+    <string name="short_password">Password must be at least 6 characters</string>
+    <string name="guest_login">Guest</string>
+    <string name="guest_login_success">Guest sign in successful</string>
+    <string name="guest_login_fail">Guest sign in failed</string>
+    <string name="google_login_success">Google sign in successful</string>
+    <string name="google_login_fail">Google sign in failed</string>
+    <string name="fiebaseui" translatable="false">FireBaseUI</string>
+    <string name="sdk" translatable="false">FireBase SDK</string>
+    <string name="guest">Guest</string>
+    <string name="logout">LogOut</string>
+    <string name="ui_sign_in_failed">UI sign in failed</string>
+    <string name="ui_sign_in_success">UI sign in successful</string>
+    <string name="hello">Hello, </string>
+    <string name="send">Send</string>
+    <string name="get_data">Get Data</string>
+    <string name="sign_out">Sign out</string>
+    <string name="delete_account">Delete account</string>
+    <string name="sign_out_toast">User has signed out!</string>
+    <string name="guest_welcome">Guest user</string>
+    <string name="get">Get</string>
+    <string name="guest_warning">Guest can\'t write on DB</string>
+    <string name="Home_Page" translatable="false">HomePage</string>
+    <string name="Pwd_recovery">Reset password</string>
+</resources>
